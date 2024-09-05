@@ -10,8 +10,14 @@ const LandingPage = () => {
         <h1>Welcome to My Landing Page</h1>
       </header>
       <section className="hero">
-        <menu style={{ display: "flex", flexDirection: "row ",  }}>
-          <li>Home</li>
+        <menu
+          style={{
+            display: "flex",
+            flexDirection: "row ",
+            listStyle: "none !important ",
+          }}
+        >
+          <li style={{ listStyle: "none !important" }}>Home</li>
           <li>Contact</li>
           <li>Login</li>
         </menu>
