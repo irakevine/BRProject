@@ -31,9 +31,9 @@ function App() {
       </header>
       <ul>
         <li className="concept">
-          <img src="TODO: IMAGE" alt="TODO: TITLE"></img>
-          <h2>TODO: TITLE</h2>
-          <p>TODO: DESCRIPTION</p>
+          <img src={concepts[0].image} alt={concepts[0].title}></img>
+          <h2>{concepts[0].title}</h2>
+          <p>{concepts[0].description}</p>
         </li>
       </ul>
     </div>
