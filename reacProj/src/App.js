@@ -9,6 +9,8 @@ function App(){
            <ul>
             <li className="concept">
                 <img src="TODO: IMAGE" alt="TODO: TITLE"></img>
+                <h2>TODO: TITLE</h2>
+                <p>TODO: DESCRIPTION</p>
             </li>
            </ul>
 
@@ -16,3 +18,4 @@ function App(){
     );
 
 }
+export default App;
