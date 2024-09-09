@@ -29,7 +29,7 @@ function App() {
         <h1>Key React Concept</h1>
         <p>selected Key React Concept you should know about </p>
       </header>
-      <ul>
+      <ul id='concepts'>
         <li className="concept">
           <img src={concepts[0].image} alt={concepts[0].title}></img>
           <h2>{concepts[0].title}</h2>
