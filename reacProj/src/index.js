@@ -7,7 +7,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 const LandingPage = () => {
   return (
     <React.StrictMode>
-      <App></App>
+      <App/>
     </React.StrictMode>
   );
 };
