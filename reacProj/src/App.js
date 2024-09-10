@@ -21,6 +21,12 @@ const concepts = [
     description:
       "Just add your desired image size (width & height) after our URL, and you will get a random image.",
   },
+  {
+    title: "third",
+    image: second,
+    description:
+      "Just add your desired image size (width & height) after our URL, and you will get a random image.",
+  },
 ];
 function App() {
   return (
