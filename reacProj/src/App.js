@@ -1,6 +1,7 @@
 import active from "./assets/images/active.jpg";
 import nellen from "./assets/images/nellen.jpg";
 import second from "./assets/images/second.jpg";
+import RouteFiles from "./route.files";
 
 const concepts = [
   {
@@ -62,7 +63,9 @@ function App() {
          
         </li>
       </ul>
+      <RouteFiles/>
     </div>
+    
   );
 }
 export default App;
