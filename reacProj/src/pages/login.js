@@ -5,7 +5,9 @@ function Login() {
   return (
     <div>
       <h2>this is login Page </h2>
-      <Link to="/">click here for see Home Page</Link>
+      <Link to="/" style={{ textDecoration: "none" }}>
+        click here for see Home Page
+      </Link>
     </div>
   );
 }
