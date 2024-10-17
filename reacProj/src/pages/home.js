@@ -13,7 +13,7 @@ function Home() {
       <Link to="login" style={{ textDecoration: "none" }}>
         click here for see login Page
       </Link>
-      <button>Hello There </button>
+      <button>login </button>
     </div>
   );
 }
