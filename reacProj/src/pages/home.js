@@ -9,11 +9,11 @@ function Home() {
         click here for see login Page
       </Link>
       <button>Hello There </button>
-      <h1>This is the home page</h1>
+      <h1>This is the login Page</h1>
       <Link to="login" style={{ textDecoration: "none" }}>
         click here for see login Page
       </Link>
-      <button>Hello There </button>
+      <button>login </button>
     </div>
   );
 }
