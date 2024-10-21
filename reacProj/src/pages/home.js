@@ -10,9 +10,6 @@ function Home() {
       </Link>
       <button>Hello There </button>
       <h1>This is the login Page</h1>
-      <Link to="login" style={{ textDecoration: "none" }}>
-        click here for see login Page
-      </Link>
       <button>login </button>
     </div>
   );
