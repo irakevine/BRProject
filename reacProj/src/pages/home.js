@@ -9,7 +9,7 @@ function Home() {
         click here for see login Page
       </Link>
       <button>Hello There </button>
-      <h1>This is the login Page</h1>
+    
       <button>login </button>
     </div>
   );
