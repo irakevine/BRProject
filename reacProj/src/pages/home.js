@@ -10,7 +10,7 @@ function Home() {
       </Link>
       <button>Hello There </button>
     
-      <button>login </button>
+ 
     </div>
   );
 }
