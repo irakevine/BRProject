@@ -9,11 +9,8 @@ function Home() {
         click here for see login Page
       </Link>
       <button>Hello There </button>
-    <button>
-      Approver
-      
-    </button>
- 
+      <button>Approver</button>
+      <button>Add Asset</button>
     </div>
   );
 }
