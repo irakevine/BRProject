@@ -11,6 +11,7 @@ function Home() {
       <button>Hello There </button>
       <button>Approver</button>
       <button>Add Asset</button>
+      <button>assign asset</button>
     </div>
   );
 }
