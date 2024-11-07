@@ -12,6 +12,7 @@ function Home() {
       <button>Approver</button>
       <button>Add Asset</button>
       <button>assign asset</button>
+      <button>asset Listt</button>
     </div>
   );
 }
