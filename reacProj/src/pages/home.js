@@ -13,6 +13,8 @@ function Home() {
       <button>Add Asset</button>
       <button>assign asset</button>
       <button>asset Listt</button>
+      <button>add asset branch</button>
+
     </div>
   );
 }
