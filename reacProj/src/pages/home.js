@@ -14,7 +14,7 @@ function Home() {
       <button>assign asset</button>
       <button>asset Listt</button>
       <button>add asset branch</button>
-
+      <button>add asset allocation</button>
     </div>
   );
 }
